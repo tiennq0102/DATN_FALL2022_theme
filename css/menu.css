@@ -38,6 +38,8 @@ img {
 .header-widget .button.border {
     margin-right: 0;
     margin-top: 10px;
+    right: 30px;
+    text-align: center;
 }
 .header-widget .sign-in {
     position: relative;
@@ -86,7 +88,7 @@ header.fullwidth .container {
     margin-right: 40px;
 }
 .header-widget {
-    text-align: right;
+    text-align: left;
 }
 /* Header Style 2
 ------------------------------------- */
